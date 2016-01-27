@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="first_text">SPOTIFY STREAMER</string>
+    <string name="second_text">SCORES APP</string>
+    <string name="third_text">LIBRARY APP</string>
+    <string name="fourth_text">BUILD IT BIGGER</string>
+    <string name="fifth_text">XYZ READER</string>
+    <string name="sixth_text">CAPSTONE APP</string>
+</resources>

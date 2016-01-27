@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.android.developers.myappportfolio.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My App Portfolio!"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="30dp"/>
+
+    <Button
+        style="@style/button_style"
+        android:id="@+id/first"
+        android:background="#FFEB3B"
+        android:layout_marginTop="25dp"
+        android:text="@string/first_text"/>
+
+    <Button
+        style="@style/button_style"
+        android:id="@+id/second"
+        android:background="#E91E63"
+        android:textColor="@android:color/white"
+        android:text="@string/second_text"/>
+
+    <Button
+        style="@style/button_style"
+        android:textColor="@android:color/white"
+        android:background="#3F51B5"
+        android:id="@+id/third"
+        android:text="@string/third_text"/>
+
+    <Button
+        style="@style/button_style"
+        android:id="@+id/fourth"
+        android:background="#F08C35"
+        android:text="@string/fourth_text"/>
+
+    <Button
+        style="@style/button_style"
+        android:id="@+id/fifth"
+        android:background="#9C27B0"
+        android:textColor="@android:color/white"
+        android:text="@string/fifth_text"/>
+
+    <Button
+        style="@style/button_style"
+        android:background="#76FF03"
+        android:id="@+id/sixth"
+        android:text="@string/sixth_text"/>
+
+</LinearLayout>
+    </ScrollView>
