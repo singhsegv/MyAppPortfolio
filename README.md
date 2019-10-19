@@ -2,4 +2,4 @@
 
 This app is made as a part of udacity android nanodegree - project 0
 
-![alt text] (http://i.imgur.com/mfhNwZG.png "Screenshot from app")
+![Screenshot from app](https://i.imgur.com/mfhNwZG.png)
